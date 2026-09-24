@@ -1,6 +1,6 @@
 {
   "name": "pokedraft",
-  "version": "1.0.0",
+  "version": "0.0.1-pallet",
   "private": true,
   "description": "Pokemon draft league - real-time points-based drafting with configurable formats",
   "type": "module",

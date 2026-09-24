@@ -18,6 +18,8 @@ npm start            # serves app + API + websockets on http://localhost:3001 (P
 
 Other scripts: `npm test` (rules and draft engine tests), `npm run typecheck`, `npm run data` (refresh the Pokedex from Pokemon Showdown), `npx tsx scripts/e2e-smoke.ts http://localhost:3001` (full two-client draft against a running server).
 
+See [CHANGELOG.md](CHANGELOG.md) for release notes and [RELEASING.md](RELEASING.md) for the release process.
+
 ## How a draft works
 
 There are two ways to play:
